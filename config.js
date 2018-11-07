@@ -1,4 +1,4 @@
-var api = 'http://184.68.225.218/api/';
+var api = 'http://explorer.getamitycoin.org/api/';
 var donationAddress = "";
 var blockTargetInterval = 120;
 var coinUnits = 10000;
@@ -7,7 +7,7 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
  "amit": [
-	["184.68.225.218", "http://184.68.225.218/api/"]
+	["explorer.getamitycoin.org", "http://getamitycoin.org/api/"]
 ]
 };
 
