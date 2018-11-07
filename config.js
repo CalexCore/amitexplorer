@@ -1,4 +1,4 @@
-var api = 'http://explorer.getamitycoin.org/api';
+var api = 'https://explorer.getamitycoin.org/api';
 var donationAddress = "";
 var blockTargetInterval = 120;
 var coinUnits = 10000;
