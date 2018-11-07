@@ -154,3 +154,7 @@ thead {
     color: #404040;
     float: right;
 }
+
+.nav-custom {
+    background:linear-gradient(to left, #8b86a3, #322e40)
+}

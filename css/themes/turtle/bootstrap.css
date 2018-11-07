@@ -1089,7 +1089,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #c8c8c8;
-  background-color: #333944;
+  background:linear-gradient(to left, #8b86a3, #322e40);
 }
 input,
 button,
@@ -4503,7 +4503,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-color: #2b2e32;
 }
 .navbar-default .navbar-brand {
-  color: #c8c8c8;
+  color: #322e40;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -4525,7 +4525,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: #6f4ff5;
+  background-color: #322e40;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -5692,8 +5692,8 @@ button.list-group-item-danger.active:focus {
   border-color: rgba(0, 0, 0, 0.6);
 }
 .panel-default > .panel-heading {
-  color: #1d1d1d;
-  background-color: #6f4ff5;
+  color: #ffffff;
+  background-color: #322e40;
   border-color: rgba(0, 0, 0, 0.6);
 }
 .panel-default > .panel-heading + .panel-collapse > .panel-body {
@@ -6775,10 +6775,10 @@ button.close {
   }
 }
 .navbar-default {
-        background-color: #1d1d1d;
+    background-color: #322e40;
 }
 .navbar-default .navbar-brand {
-    color: #6f4ff5;
+    color: white;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
