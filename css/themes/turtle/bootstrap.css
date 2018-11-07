@@ -6775,7 +6775,7 @@ button.close {
   }
 }
 .navbar-default {
-        background-color: #1d1d1d;
+        background-color:linear-gradient(to left, #8b86a3, #322e40);
 }
 .navbar-default .navbar-brand {
     color: #6f4ff5;
