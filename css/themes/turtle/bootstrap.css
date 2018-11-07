@@ -6775,10 +6775,10 @@ button.close {
   }
 }
 .navbar-default {
-        background-color: #322e40;
+    background-color: #322e40;
 }
 .navbar-default .navbar-brand {
-    color: #6f4ff5;
+    color: #322e40;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
