@@ -7,7 +7,7 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
  "amit": [
-	["explorer.getamitycoin.org/", "http://explorer.getamitycoin.org/api"]
+	[""]
 ]
 };
 
