@@ -1,5 +1,5 @@
 var api = 'https://explorer.getamitycoin.org/api';
-var donationAddress = "amitWnmgfgYG4XerZGPLNFd5AM87rUkb3X2q4FcELpPsB4DXtT8YE3mETzAjrYLdDH39pJoCxSUHPU2yqZeY1RsJ1h5DgikVAz";
+var donationAddress = "amitQLHwwcaU5bDjqkZrQ26KHeVdk2mgsC8j8mnBJbpJfi6jMNxUqB42V2ZCn6EJ4z9wK5nVvNBwMVBFubZce3BXAYAJx2YEon";
 var blockTargetInterval = 120;
 var coinUnits = 10000;
 var symbol = 'AMIT';
